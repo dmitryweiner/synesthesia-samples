@@ -12,6 +12,11 @@ its source in `provenance.md`.
   author, licence and the trim of the original.
 - `bank.bin` — what a host hands the core (`SYNB` v2: header, the
   manifest, the FLAC streams back to back); built, not committed.
+- The bank the apps ship is a **release asset**: `bank-v1`
+  (`bank.bin`, sha256 `c6ec462a3e057b41ca82a918427f7d7be4efd1c0a437f80a628e2f1cac9bd335`),
+  built from the tag's samples and checked against them stream by stream.
+  The web app and Android download it at build time by tag and hash. A new
+  pick is a new tag (`bank-v2`, …) and a bump of both pins.
 - `sources/*.json`, `picks.json` — what was downloaded and what the
   curator kept, by ear.
 
