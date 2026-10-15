@@ -1,0 +1,1343 @@
+{
+ "owl/big-1763-0.wav": {
+  "mark": "keep"
+ },
+ "owl/big-1763-1.wav": {
+  "mark": "keep"
+ },
+ "owl/big-1763-2.wav": {
+  "mark": "keep"
+ },
+ "owl/big-1764-0.wav": {
+  "mark": "drop"
+ },
+ "owl/big-1764-1.wav": {
+  "mark": "drop"
+ },
+ "owl/big-1764-2.wav": {
+  "mark": "drop"
+ },
+ "owl/big-3459-0.wav": {
+  "mark": "keep"
+ },
+ "owl/big-3460-0.wav": {
+  "mark": "keep"
+ },
+ "owl/big-0429-0.wav": {
+  "mark": "keep"
+ },
+ "owl/big-0429-1.wav": {
+  "mark": "keep"
+ },
+ "owl/big-0429-2.wav": {
+  "mark": "keep"
+ },
+ "owl/big-0936-0.wav": {
+  "mark": "keep"
+ },
+ "owl/big-0936-1.wav": {
+  "mark": "drop"
+ },
+ "owl/big-0936-2.wav": {
+  "mark": "keep"
+ },
+ "owl/big-0937-0.wav": {
+  "mark": "drop"
+ },
+ "owl/big-0937-1.wav": {
+  "mark": "drop"
+ },
+ "owl/big-0937-2.wav": {
+  "mark": "drop"
+ },
+ "owl/big-1400-0.wav": {
+  "mark": "keep"
+ },
+ "owl/big-1400-1.wav": {
+  "mark": "drop"
+ },
+ "owl/big-1400-2.wav": {
+  "mark": "drop"
+ },
+ "owl/fre-101344-0.wav": {
+  "mark": "drop"
+ },
+ "owl/fre-101344-1.wav": {
+  "mark": "drop"
+ },
+ "owl/fre-101344-2.wav": {
+  "mark": "drop"
+ },
+ "owl/fre-242772-0.wav": {
+  "mark": "drop"
+ },
+ "owl/fre-242772-1.wav": {
+  "mark": "drop"
+ },
+ "owl/fre-242772-2.wav": {
+  "mark": "drop"
+ },
+ "owl/fre-429186-0.wav": {
+  "mark": "drop"
+ },
+ "owl/fre-429186-1.wav": {
+  "mark": "keep"
+ },
+ "owl/fre-429186-2.wav": {
+  "mark": "drop"
+ },
+ "owl/fre-59462-0.wav": {
+  "mark": "drop"
+ },
+ "owl/fre-59462-1.wav": {
+  "mark": "drop"
+ },
+ "owl/fre-59462-2.wav": {
+  "mark": "drop"
+ },
+ "owl/fre-871239-0.wav": {
+  "mark": "keep"
+ },
+ "owl/fre-871239-1.wav": {
+  "mark": "drop"
+ },
+ "owl/fre-871239-2.wav": {
+  "mark": "drop"
+ },
+ "crickets/big-1020.wav": {
+  "mark": "keep"
+ },
+ "crickets/big-0425.wav": {
+  "mark": "drop"
+ },
+ "crickets/big-0426.wav": {
+  "mark": "drop"
+ },
+ "crickets/big-0424.wav": {
+  "mark": "drop"
+ },
+ "crickets/big-3089.wav": {
+  "mark": "keep"
+ },
+ "crickets/big-3090.wav": {
+  "mark": "keep"
+ },
+ "crickets/big-3185.wav": {
+  "mark": "keep"
+ },
+ "crickets/big-3186.wav": {
+  "mark": "keep"
+ },
+ "crickets/big-3187.wav": {
+  "mark": "drop"
+ },
+ "crickets/big-2246.wav": {
+  "mark": "keep"
+ },
+ "crickets/fre-402734.wav": {
+  "mark": "drop"
+ },
+ "crickets/fre-495396.wav": {
+  "mark": "keep"
+ },
+ "crickets/fre-822935.wav": {
+  "mark": "keep"
+ },
+ "crickets/fre-852877.wav": {
+  "mark": "keep"
+ },
+ "night/big-1880.wav": {
+  "mark": "keep"
+ },
+ "night/big-1470.wav": {
+  "mark": "keep"
+ },
+ "night/big-0555.wav": {
+  "mark": "drop"
+ },
+ "fire/big-2855.wav": {
+  "mark": "keep"
+ },
+ "fire/big-2856.wav": {
+  "mark": "keep"
+ },
+ "fire/big-2857.wav": {
+  "mark": "keep"
+ },
+ "fire/big-0030.wav": {
+  "mark": "drop"
+ },
+ "fire/big-0031.wav": {
+  "mark": "drop"
+ },
+ "fire/big-0987.wav": {
+  "mark": "keep"
+ },
+ "fire/fre-510767.wav": {
+  "mark": "keep"
+ },
+ "fire/fre-595483.wav": {
+  "mark": "drop"
+ },
+ "fire/fre-636178.wav": {
+  "mark": "drop"
+ },
+ "fire/fre-807942.wav": {
+  "mark": "drop"
+ },
+ "creak/big-0302-0.wav": {
+  "mark": "drop"
+ },
+ "creak/big-0302-1.wav": {
+  "mark": "keep"
+ },
+ "creak/big-0305-0.wav": {
+  "mark": "keep"
+ },
+ "creak/big-0306-0.wav": {
+  "mark": "drop"
+ },
+ "creak/big-0539-0.wav": {
+  "mark": "keep"
+ },
+ "creak/big-0539-1.wav": {
+  "mark": "drop"
+ },
+ "creak/big-0539-2.wav": {
+  "mark": "drop"
+ },
+ "creak/big-3205-0.wav": {
+  "mark": "keep"
+ },
+ "creak/big-3205-1.wav": {
+  "mark": "keep"
+ },
+ "creak/big-3206-0.wav": {
+  "mark": "keep"
+ },
+ "creak/big-3206-1.wav": {
+  "mark": "drop"
+ },
+ "creak/big-3207-0.wav": {
+  "mark": "drop"
+ },
+ "creak/big-3207-1.wav": {
+  "mark": "drop"
+ },
+ "creak/big-3208-0.wav": {
+  "mark": "keep"
+ },
+ "creak/big-3208-1.wav": {
+  "mark": "drop"
+ },
+ "creak/big-3208-2.wav": {
+  "mark": "drop"
+ },
+ "creak/big-3211-0.wav": {
+  "mark": "keep"
+ },
+ "creak/big-0518-0.wav": {
+  "mark": "keep"
+ },
+ "creak/big-0518-1.wav": {
+  "mark": "drop"
+ },
+ "creak/big-0518-2.wav": {
+  "mark": "drop"
+ },
+ "creak/big-3051-0.wav": {
+  "mark": "keep"
+ },
+ "creak/big-3052-0.wav": {
+  "mark": "drop"
+ },
+ "creak/big-3053-0.wav": {
+  "mark": "keep"
+ },
+ "creak/big-3060-0.wav": {
+  "mark": "drop"
+ },
+ "creak/big-3060-1.wav": {
+  "mark": "drop"
+ },
+ "vcsl-frame-drum/vcs-hdruml-hand-rr1-sum-0.wav": {
+  "mark": "keep"
+ },
+ "vcsl-frame-drum/vcs-hdrums-hand-v1-rr1-sum-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-frame-drum/vcs-hdruml-hit-v3-rr1-sum-0.wav": {
+  "mark": "keep"
+ },
+ "vcsl-frame-drum/vcs-hdruml-hitmuted-v3-rr1-sum-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-darbuka/vcs-darbuka-1-hit-vl2-rr1-0.wav": {
+  "mark": "keep"
+ },
+ "vcsl-darbuka/vcs-darbuka-2-hit-vl2-rr1-0.wav": {
+  "mark": "keep"
+ },
+ "vcsl-darbuka/vcs-darbuka-3-hit-vl2-rr1-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-darbuka/vcs-darbuka-4-hit-vl2-rr1-0.wav": {
+  "mark": "keep"
+ },
+ "vcsl-conga/vcs-conga-hitfm-v2-rr1-sum-0.wav": {
+  "mark": "keep"
+ },
+ "elk/com-american-elk-bugling-ogg-1.wav": {
+  "mark": "drop"
+ },
+ "elk/com-american-elk-bugling-ogg-0.wav": {
+  "mark": "drop"
+ },
+ "elk/com-elkbellow-ogg-0.wav": {
+  "mark": "keep"
+ },
+ "elk/com-elkbellow-ogg-1.wav": {
+  "mark": "drop"
+ },
+ "elk/nps-yell-elkbugle1-1.wav": {
+  "mark": "drop"
+ },
+ "elk/nps-yell-elkbugle1-0.wav": {
+  "mark": "keep"
+ },
+ "elk/nps-yell-elkbugle2-0.wav": {
+  "mark": "drop"
+ },
+ "elk/nps-yell-elkbugle2-1.wav": {
+  "mark": "drop"
+ },
+ "elk/nps-yell-elkbugle2-2.wav": {
+  "mark": "keep"
+ },
+ "elk/nps-yell-yellelkbullandcows20151018t012-0.wav": {
+  "mark": "drop"
+ },
+ "elk/nps-yell-yellelkbullandcows20151018t012-1.wav": {
+  "mark": "drop"
+ },
+ "elk/nps-yell-yellelkbullandcows20151018t012-2.wav": {
+  "mark": "drop"
+ },
+ "elk/nps-yell-yellelkchorus150922t04ms01-0.wav": {
+  "mark": "drop"
+ },
+ "elk/nps-yell-yellelkchorus150922t04ms01-1.wav": {
+  "mark": "drop"
+ },
+ "elk/nps-yell-yellelkchorus150922t04ms01-2.wav": {
+  "mark": "drop"
+ },
+ "elk/nps-yell-yelllakeelkrut20160912t15ms-0.wav": {
+  "mark": "drop"
+ },
+ "elk/nps-yell-yelllakeelkrut20160912t15ms-1.wav": {
+  "mark": "drop"
+ },
+ "elk/nps-yell-yelllakeelkrut20160912t15ms-2.wav": {
+  "mark": "drop"
+ },
+ "elk/nps-yell-yelllakeelkrut20160913t004ms1-2.wav": {
+  "mark": "drop"
+ },
+ "elk/nps-yell-yelllakeelkrut20160913t004ms1-1.wav": {
+  "mark": "drop"
+ },
+ "elk/nps-yell-yelllakeelkrut20160913t004ms1-0.wav": {
+  "mark": "drop"
+ },
+ "elk/nps-yell-yellmj23elkcalf20051116-0.wav": {
+  "mark": "keep"
+ },
+ "elk/nps-yell-yellmj23elkcalf20051116-1.wav": {
+  "mark": "drop"
+ },
+ "elk/nps-yell-yellmj23elkcalf20051116-2.wav": {
+  "mark": "keep"
+ },
+ "bearded-seal/com-svalbard-sample-for-wiki-ogg-1.wav": {
+  "mark": "drop"
+ },
+ "bearded-seal/com-svalbard-sample-for-wiki-ogg-0.wav": {
+  "mark": "drop"
+ },
+ "bearded-seal/com-svalbard-sample-for-wiki-ogg-2.wav": {
+  "mark": "drop"
+ },
+ "potoo/fre-532268-2.wav": {
+  "mark": "keep"
+ },
+ "potoo/fre-532268-1.wav": {
+  "mark": "drop"
+ },
+ "potoo/fre-532268-0.wav": {
+  "mark": "drop"
+ },
+ "pigeon/fre-154865-0.wav": {
+  "mark": "drop"
+ },
+ "pigeon/fre-154865-1.wav": {
+  "mark": "drop"
+ },
+ "pigeon/fre-479589-0.wav": {
+  "mark": "keep"
+ },
+ "pigeon/fre-479589-1.wav": {
+  "mark": "drop"
+ },
+ "pigeon/fre-479589-2.wav": {
+  "mark": "drop"
+ },
+ "pigeon/fre-735366-0.wav": {
+  "mark": "keep"
+ },
+ "pigeon/fre-735366-1.wav": {
+  "mark": "drop"
+ },
+ "pigeon/fre-735366-2.wav": {
+  "mark": "drop"
+ },
+ "pigeon/fre-795558-0.wav": {
+  "mark": "keep"
+ },
+ "pigeon/fre-795558-1.wav": {
+  "mark": "drop"
+ },
+ "pigeon/fre-795558-2.wav": {
+  "mark": "drop"
+ },
+ "goldfinch/fre-134687-0.wav": {
+  "mark": "keep"
+ },
+ "goldfinch/fre-134687-1.wav": {
+  "mark": "keep"
+ },
+ "goldfinch/fre-134687-2.wav": {
+  "mark": "keep"
+ },
+ "goldfinch/fre-320730-0.wav": {
+  "mark": "drop"
+ },
+ "goldfinch/fre-320730-1.wav": {
+  "mark": "drop"
+ },
+ "goldfinch/fre-320730-2.wav": {
+  "mark": "drop"
+ },
+ "goldfinch/fre-527532-0.wav": {
+  "mark": "drop"
+ },
+ "goldfinch/fre-527532-1.wav": {
+  "mark": "drop"
+ },
+ "goldfinch/fre-527532-2.wav": {
+  "mark": "drop"
+ },
+ "wings/big-0840-0.wav": {
+  "mark": "keep"
+ },
+ "wings/big-0476-0.wav": {
+  "mark": "drop"
+ },
+ "wings/big-0476-1.wav": {
+  "mark": "drop"
+ },
+ "wings/big-0476-2.wav": {
+  "mark": "drop"
+ },
+ "chime/big-2687-0.wav": {
+  "mark": "keep"
+ },
+ "chime/big-2687-1.wav": {
+  "mark": "keep"
+ },
+ "chime/big-2086-0.wav": {
+  "mark": "keep"
+ },
+ "chime/big-3360-1.wav": {
+  "mark": "drop"
+ },
+ "chime/big-0292-0.wav": {
+  "mark": "keep"
+ },
+ "chime/big-3360-0.wav": {
+  "mark": "keep"
+ },
+ "water/big-0823.wav": {
+  "mark": "keep"
+ },
+ "creak/big-1094-0.wav": {
+  "mark": "drop"
+ },
+ "creak/big-1094-1.wav": {
+  "mark": "drop"
+ },
+ "creak/big-1094-2.wav": {
+  "mark": "drop"
+ },
+ "creak/big-1051-0.wav": {
+  "mark": "drop"
+ },
+ "creak/big-1051-1.wav": {
+  "mark": "drop"
+ },
+ "creak/big-1051-2.wav": {
+  "mark": "drop"
+ },
+ "creak/big-0865-0.wav": {
+  "mark": "drop"
+ },
+ "creak/big-0865-1.wav": {
+  "mark": "drop"
+ },
+ "creak/big-0865-2.wav": {
+  "mark": "drop"
+ },
+ "creak/big-1159-0.wav": {
+  "mark": "drop"
+ },
+ "creak/big-1159-1.wav": {
+  "mark": "drop"
+ },
+ "creak/big-1159-2.wav": {
+  "mark": "drop"
+ },
+ "creak/fre-506665-0.wav": {
+  "mark": "drop"
+ },
+ "creak/fre-572645-0.wav": {
+  "mark": "keep"
+ },
+ "creak/fre-618082-0.wav": {
+  "mark": "drop"
+ },
+ "creak/fre-618083-0.wav": {
+  "mark": "keep"
+ },
+ "creak/fre-618083-1.wav": {
+  "mark": "drop"
+ },
+ "creak/fre-618084-0.wav": {
+  "mark": "drop"
+ },
+ "creak/fre-618085-0.wav": {
+  "mark": "drop"
+ },
+ "creak/fre-618085-1.wav": {
+  "mark": "drop"
+ },
+ "creak/fre-618085-2.wav": {
+  "mark": "keep"
+ },
+ "bottle/big-1939-0.wav": {
+  "mark": "keep"
+ },
+ "bottle/big-1940-0.wav": {
+  "mark": "drop"
+ },
+ "bottle/big-1941-0.wav": {
+  "mark": "drop"
+ },
+ "bottle/big-1943-0.wav": {
+  "mark": "drop"
+ },
+ "bottle/big-1945-0.wav": {
+  "mark": "drop"
+ },
+ "bottle/big-1949-0.wav": {
+  "mark": "drop"
+ },
+ "bottle/big-0487-0.wav": {
+  "mark": "keep"
+ },
+ "bottle/big-0487-1.wav": {
+  "mark": "keep"
+ },
+ "bottle/big-0487-2.wav": {
+  "mark": "drop"
+ },
+ "bottle/big-1393-0.wav": {
+  "mark": "keep"
+ },
+ "bottle/big-1393-2.wav": {
+  "mark": "keep"
+ },
+ "bottle/big-1393-1.wav": {
+  "mark": "keep"
+ },
+ "bottle/big-1394-0.wav": {
+  "mark": "drop"
+ },
+ "bottle/big-1394-1.wav": {
+  "mark": "drop"
+ },
+ "bottle/big-1394-2.wav": {
+  "mark": "drop"
+ },
+ "bottle/big-1935-0.wav": {
+  "mark": "drop"
+ },
+ "bottle/big-1935-1.wav": {
+  "mark": "drop"
+ },
+ "bottle/big-1935-2.wav": {
+  "mark": "drop"
+ },
+ "bottle/big-1937-0.wav": {
+  "mark": "drop"
+ },
+ "bottle/big-1937-1.wav": {
+  "mark": "drop"
+ },
+ "bottle/big-0211-0.wav": {
+  "mark": "drop"
+ },
+ "bottle/big-0211-1.wav": {
+  "mark": "drop"
+ },
+ "bottle/big-0648-0.wav": {
+  "mark": "drop"
+ },
+ "bottle/big-0274-0.wav": {
+  "mark": "drop"
+ },
+ "bottle/big-0274-1.wav": {
+  "mark": "drop"
+ },
+ "bottle/big-1719-0.wav": {
+  "mark": "drop"
+ },
+ "bottle/big-0878-0.wav": {
+  "mark": "drop"
+ },
+ "bottle/fre-447756-0.wav": {
+  "mark": "drop"
+ },
+ "bottle/fre-846527-0.wav": {
+  "mark": "drop"
+ },
+ "bottle/fre-846527-2.wav": {
+  "mark": "drop"
+ },
+ "bottle/fre-846527-1.wav": {
+  "mark": "keep"
+ },
+ "bird/big-3086-0.wav": {
+  "mark": "keep"
+ },
+ "bird/big-3086-1.wav": {
+  "mark": "keep"
+ },
+ "bird/big-3087-0.wav": {
+  "mark": "keep"
+ },
+ "bird/big-3088-0.wav": {
+  "mark": "drop"
+ },
+ "bird/big-3088-1.wav": {
+  "mark": "keep"
+ },
+ "bird/big-3476-0.wav": {
+  "mark": "keep"
+ },
+ "bird/big-3476-1.wav": {
+  "mark": "keep"
+ },
+ "bird/big-3486-0.wav": {
+  "mark": "keep"
+ },
+ "bird/big-3486-1.wav": {
+  "mark": "keep"
+ },
+ "bird/big-3486-2.wav": {
+  "mark": "keep"
+ },
+ "bird/big-3494-0.wav": {
+  "mark": "keep"
+ },
+ "bird/big-3494-1.wav": {
+  "mark": "keep"
+ },
+ "bird/big-3494-2.wav": {
+  "mark": "keep"
+ },
+ "bird/big-3503-0.wav": {
+  "mark": "keep"
+ },
+ "bird/big-3503-1.wav": {
+  "mark": "keep"
+ },
+ "bird/big-3503-2.wav": {
+  "mark": "drop"
+ },
+ "bird/big-1667-0.wav": {
+  "mark": "keep"
+ },
+ "bird/big-1669-0.wav": {
+  "mark": "keep"
+ },
+ "bird/big-1670-0.wav": {
+  "mark": "keep"
+ },
+ "bird/big-1673-0.wav": {
+  "mark": "keep"
+ },
+ "bird/big-2764-0.wav": {
+  "mark": "keep"
+ },
+ "bird/big-3461-0.wav": {
+  "mark": "keep"
+ },
+ "bird/big-3463-0.wav": {
+  "mark": "keep"
+ },
+ "frogs/big-0819.wav": {
+  "mark": "recut"
+ },
+ "frogs/big-0997.wav": {
+  "mark": "drop"
+ },
+ "twig/big-1300-1.wav": {
+  "mark": "drop"
+ },
+ "twig/big-1300-0.wav": {
+  "mark": "drop"
+ },
+ "twig/big-1299-2.wav": {
+  "mark": "drop"
+ },
+ "twig/big-1299-1.wav": {
+  "mark": "drop"
+ },
+ "twig/big-1299-0.wav": {
+  "mark": "drop"
+ },
+ "twig/big-1301-2.wav": {
+  "mark": "drop"
+ },
+ "twig/big-1301-1.wav": {
+  "mark": "drop"
+ },
+ "twig/big-1301-0.wav": {
+  "mark": "drop"
+ },
+ "water/big-0864.wav": {
+  "mark": "drop"
+ },
+ "water/big-1290.wav": {
+  "mark": "keep"
+ },
+ "nightingale/fre-19889-0.wav": {
+  "mark": "drop"
+ },
+ "nightingale/fre-19889-1.wav": {
+  "mark": "drop"
+ },
+ "nightingale/fre-19889-2.wav": {
+  "mark": "drop"
+ },
+ "nightingale/fre-343073-0.wav": {
+  "mark": "keep"
+ },
+ "nightingale/fre-343073-1.wav": {
+  "mark": "keep"
+ },
+ "nightingale/fre-343073-2.wav": {
+  "mark": "keep"
+ },
+ "nightingale/fre-521035-0.wav": {
+  "mark": "keep"
+ },
+ "nightingale/fre-521035-1.wav": {
+  "mark": "drop"
+ },
+ "nightingale/fre-521035-2.wav": {
+  "mark": "drop"
+ },
+ "lyrebird/fre-203498-0.wav": {
+  "mark": "keep"
+ },
+ "lyrebird/fre-203498-1.wav": {
+  "mark": "keep"
+ },
+ "lyrebird/fre-203498-2.wav": {
+  "mark": "keep"
+ },
+ "lyrebird/fre-203498-3.wav": {
+  "mark": "keep"
+ },
+ "lyrebird/fre-399794-0.wav": {
+  "mark": "keep"
+ },
+ "lyrebird/fre-399794-1.wav": {
+  "mark": "keep"
+ },
+ "lyrebird/fre-399794-2.wav": {
+  "mark": "drop"
+ },
+ "lyrebird/fre-399794-3.wav": {
+  "mark": "drop"
+ },
+ "lyrebird/fre-399796-0.wav": {
+  "mark": "keep"
+ },
+ "lyrebird/fre-399796-1.wav": {
+  "mark": "keep"
+ },
+ "lyrebird/fre-399796-2.wav": {
+  "mark": "keep"
+ },
+ "lyrebird/fre-399796-3.wav": {
+  "mark": "drop"
+ },
+ "lyrebird/fre-646044-0.wav": {
+  "mark": "keep"
+ },
+ "lyrebird/fre-646044-1.wav": {
+  "mark": "keep"
+ },
+ "lyrebird/fre-646044-2.wav": {
+  "mark": "keep"
+ },
+ "lyrebird/fre-646044-3.wav": {
+  "mark": "keep"
+ },
+ "canary/fre-26006-0.wav": {
+  "mark": "keep"
+ },
+ "dove/fre-367637-0.wav": {
+  "mark": "drop"
+ },
+ "dove/fre-367637-2.wav": {
+  "mark": "keep"
+ },
+ "dove/fre-367637-1.wav": {
+  "mark": "drop"
+ },
+ "dove/fre-543501-0.wav": {
+  "mark": "keep"
+ },
+ "dove/fre-543501-1.wav": {
+  "mark": "keep"
+ },
+ "dove/fre-543501-2.wav": {
+  "mark": "keep"
+ },
+ "dove/fre-607243-0.wav": {
+  "mark": "keep"
+ },
+ "dove/fre-610563-0.wav": {
+  "mark": "keep"
+ },
+ "dove/fre-610563-1.wav": {
+  "mark": "drop"
+ },
+ "dove/fre-610563-2.wav": {
+  "mark": "drop"
+ },
+ "vcsl-conga/vcs-conga-hitn-v2-rr1-sum-0.wav": {
+  "mark": "keep"
+ },
+ "vcsl-conga/vcs-quinto-hitfm1-v2-rr1-sum-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-conga/vcs-quinto-hitn-v2-rr1-sum-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-bongos/vcs-bongoh-hit1-v2-rr1-mid-0.wav": {
+  "mark": "keep"
+ },
+ "vcsl-bongos/vcs-bongoh-hitmuted1-v2-rr1-mid-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-bongos/vcs-bongoh-roll-v3-rr1-mid-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-bongos/vcs-bongol-hit1-v2-rr1-mid-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-ocean-drum/vcs-oceandrum-sus-3-mid.wav": {
+  "mark": "drop"
+ },
+ "vcsl-ocean-drum/vcs-oceandrum-sus-2-mid.wav": {
+  "mark": "drop"
+ },
+ "vcsl-ocean-drum/vcs-oceandrum-sus-1-mid.wav": {
+  "mark": "drop"
+ },
+ "vcsl-woodblock/vcs-wood-click3-vl2-0.wav": {
+  "mark": "keep"
+ },
+ "vcsl-woodblock/vcs-wood-click2-mp-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-woodblock/vcs-wood-click-ff-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-woodblock/vcs-wood-click-pp-rr1-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-vibraslap/vcs-vibraslap-rr1-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-triangles/vcs-triangle3-hit-pp-0.wav": {
+  "mark": "keep"
+ },
+ "vcsl-triangles/vcs-triangle1-roll-rr1-mid-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-triangles/vcs-triangle1-roll-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-triangles/vcs-triangle1-hit-mf-pt2-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-slit-drum/vcs-logdrumlo-medm-v2-rr1-sum-0.wav": {
+  "mark": "keep"
+ },
+ "vcsl-slit-drum/vcs-logdrumhi-medm-v2-rr1-sum-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-sleigh-bells/vcs-sleighbells-hit-rr1-mid-0.wav": {
+  "mark": "keep"
+ },
+ "vcsl-sleigh-bells/vcs-sleighbell1-shake1-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-sleigh-bells/vcs-sleighbell2-hit-2-0.wav": {
+  "mark": "keep"
+ },
+ "vcsl-sleigh-bells/vcs-sleighbell2-hit-loud-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-slapstick/vcs-slapstick-rr1-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-shaker-small/vcs-mid-shaker-roll-fast-rr1-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-shaker-large/vcs-lshaker-hit-rr1-mid-0.wav": {
+  "mark": "keep"
+ },
+ "vcsl-shaker-large/vcs-lshaker-shake1d-rr3-mid-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-shaker-large/vcs-lshaker-shake1u-rr1-mid-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-mark-trees/vcs-windchimes-asc1-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-mark-trees/vcs-windchimes-desc1-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-mark-trees/vcs-windchimes-fastasc1-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-mark-trees/vcs-windchimes-random-0.wav": {
+  "mark": "keep"
+ },
+ "vcsl-hand-bells-nepalese/vcs-hb-1-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-hand-bells-nepalese/vcs-hb-2-0.wav": {
+  "mark": "keep"
+ },
+ "vcsl-hand-bells-nepalese/vcs-hb-3-0.wav": {
+  "mark": "keep"
+ },
+ "vcsl-guiro/vcs-guiro-fast-rr1-mid-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-guiro/vcs-guiro-slow-rr2-mid-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-guiro/vcs-guiro-short-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-guiro/vcs-guiro-short4-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-finger-cymbals/vcs-fing-cymb-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-cowbells/vcs-cowbell1-hit-v3-rr1-mid-0.wav": {
+  "mark": "keep"
+ },
+ "vcsl-cowbells/vcs-cowbell1-muted-v3-rr1-mid-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-cowbells/vcs-cowbell1-normal-v3-rr1-mid-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-cowbells/vcs-cowbell2-double-v3-rr1-mid-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-claves/vcs-claves1-hit-v2-rr1-mid-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-claves/vcs-claves2-hit-v2-rr1-mid-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-claves/vcs-claves-mf-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-claves/vcs-claves-mf-2-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-claps/vcs-clap-rr5-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-claps/vcs-soloclap-vl3-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-cajon/vcs-cajon-hit1-fff-rr1-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-cajon/vcs-cajon-hit2-mp-rr1-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-cajon/vcs-cajon-hit2-pp-rr1-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-cajon/vcs-cajon-hit3-mp-rr1-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-cabasa/vcs-cabasa1-hit-rr1-mid-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-cabasa/vcs-cabasa1-rub-v2-rr1-mid-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-bell-tree/vcs-belltree-hit-a-5-rr1-mid-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-bell-tree/vcs-belltree-hit-d5-rr1-mid-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-bell-tree/vcs-belltree-hit-f-5-rr1-mid-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-bell-tree/vcs-belltree-stroke-10-mid-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-agogo-bells/vcs-agogo-high-v2-rr1-mid-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-agogo-bells/vcs-agogobell2-mp-1-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-agogo-bells/vcs-agogobell3-ff-1-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-agogo-bells/vcs-agogobell3-ff-3-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-kalimba-tanzania/vcs-mbira3-pluck-main-a-2-k8-50-100-rr2-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-kalimba-tanzania/vcs-mbira3-pluck-main-c-3-k16-50-100-rr2-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-kalimba-tanzania/vcs-mbira3-pluck-main-d-4-k20-50-100-rr2-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-kalimba-tanzania/vcs-mbira3-pluck-main-f3-k17-50-100-rr2-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-kalimba-kenya/vcs-mbira6-normal-mainspirit-a4-k1-vl3-rr2-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-kalimba-kenya/vcs-mbira6-normal-mainspirit-b3-k3-vl3-rr2-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-kalimba-kenya/vcs-mbira6-normal-mainspirit-c-4-k2-vl3-rr2-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-kalimba-kenya/vcs-mbira6-normal-mainspirit-d-4-k13-vl3-rr2-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-wine-glasses/vcs-glass1-d-4-fast-1-decay-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-wine-glasses/vcs-glass1-d-4-slow-1-decay-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-wine-glasses/vcs-glass1-d-4-fast-1-main-0.wav": {
+  "mark": "drop"
+ },
+ "vcsl-wine-glasses/vcs-glass1-d-4-slow-1-main-0.wav": {
+  "mark": "drop"
+ },
+ "canary/fre-26006-1.wav": {
+  "mark": "keep"
+ },
+ "canary/fre-26006-2.wav": {
+  "mark": "keep"
+ },
+ "canary/fre-464650-0.wav": {
+  "mark": "keep"
+ },
+ "canary/fre-464650-1.wav": {
+  "mark": "keep"
+ },
+ "canary/fre-464650-2.wav": {
+  "mark": "keep"
+ },
+ "canary/fre-672730-0.wav": {
+  "mark": "keep"
+ },
+ "canary/fre-672730-1.wav": {
+  "mark": "keep"
+ },
+ "canary/fre-85401-0.wav": {
+  "mark": "drop"
+ },
+ "canary/fre-85401-1.wav": {
+  "mark": "drop"
+ },
+ "canary/fre-85401-2.wav": {
+  "mark": "drop"
+ },
+ "canary/fre-85402-0.wav": {
+  "mark": "drop"
+ },
+ "canary/fre-85402-1.wav": {
+  "mark": "drop"
+ },
+ "oriole/fre-321994-0.wav": {
+  "mark": "drop"
+ },
+ "oriole/fre-321994-1.wav": {
+  "mark": "drop"
+ },
+ "oriole/fre-321994-2.wav": {
+  "mark": "drop"
+ },
+ "oriole/fre-559624-2.wav": {
+  "mark": "drop"
+ },
+ "oriole/fre-559624-1.wav": {
+  "mark": "drop"
+ },
+ "oriole/fre-559624-0.wav": {
+  "mark": "drop"
+ },
+ "oriole/fre-739669-0.wav": {
+  "mark": "keep"
+ },
+ "oriole/fre-737205-2.wav": {
+  "mark": "drop"
+ },
+ "oriole/fre-737205-1.wav": {
+  "mark": "drop"
+ },
+ "oriole/fre-737205-0.wav": {
+  "mark": "drop"
+ },
+ "oriole/fre-739669-1.wav": {
+  "mark": "drop"
+ },
+ "oriole/fre-739669-2.wav": {
+  "mark": "drop"
+ },
+ "oriole/fre-813089-0.wav": {
+  "mark": "keep"
+ },
+ "oriole/fre-813089-1.wav": {
+  "mark": "keep"
+ },
+ "oriole/fre-813089-2.wav": {
+  "mark": "keep"
+ },
+ "great-tit/fre-346066-0.wav": {
+  "mark": "keep"
+ },
+ "great-tit/fre-346066-1.wav": {
+  "mark": "keep"
+ },
+ "great-tit/fre-346066-2.wav": {
+  "mark": "keep"
+ },
+ "great-tit/fre-418102-0.wav": {
+  "mark": "keep"
+ },
+ "great-tit/fre-418102-1.wav": {
+  "mark": "keep"
+ },
+ "great-tit/fre-418102-2.wav": {
+  "mark": "keep"
+ },
+ "great-tit/fre-607242-0.wav": {
+  "mark": "keep"
+ },
+ "great-tit/fre-849566-0.wav": {
+  "mark": "keep"
+ },
+ "great-tit/fre-849566-1.wav": {
+  "mark": "keep"
+ },
+ "great-tit/fre-849566-2.wav": {
+  "mark": "drop"
+ },
+ "kookaburra/fre-427327-0.wav": {
+  "mark": "drop"
+ },
+ "kookaburra/fre-427327-1.wav": {
+  "mark": "keep"
+ },
+ "kookaburra/fre-427327-2.wav": {
+  "mark": "drop"
+ },
+ "kookaburra/fre-524643-0.wav": {
+  "mark": "drop"
+ },
+ "kookaburra/fre-524643-1.wav": {
+  "mark": "drop"
+ },
+ "kookaburra/fre-524643-2.wav": {
+  "mark": "drop"
+ },
+ "kookaburra/fre-61510-0.wav": {
+  "mark": "keep"
+ },
+ "kookaburra/fre-61510-1.wav": {
+  "mark": "drop"
+ },
+ "kookaburra/fre-61510-2.wav": {
+  "mark": "keep"
+ },
+ "kookaburra/fre-662080-0.wav": {
+  "mark": "drop"
+ },
+ "kookaburra/fre-662080-1.wav": {
+  "mark": "drop"
+ },
+ "kookaburra/fre-662080-2.wav": {
+  "mark": "drop"
+ },
+ "kookaburra/fre-671250-0.wav": {
+  "mark": "keep"
+ },
+ "kookaburra/fre-671250-1.wav": {
+  "mark": "drop"
+ },
+ "kookaburra/fre-671250-2.wav": {
+  "mark": "drop"
+ },
+ "kookaburra/com-laughingkookaburra-ogg-0.wav": {
+  "mark": "drop"
+ },
+ "kookaburra/com-laughingkookaburra-ogg-1.wav": {
+  "mark": "drop"
+ },
+ "kookaburra/com-laughingkookaburra-ogg-2.wav": {
+  "mark": "drop"
+ },
+ "whale/fre-88449-0.wav": {
+  "mark": "keep"
+ },
+ "whale/fre-82325-2.wav": {
+  "mark": "drop"
+ },
+ "whale/fre-82325-1.wav": {
+  "mark": "drop"
+ },
+ "whale/fre-82325-0.wav": {
+  "mark": "drop"
+ },
+ "whale/com-humpback-whale-moo-ogg-0.wav": {
+  "mark": "drop"
+ },
+ "whale/com-humpback-whale-wheezeblow-ogg-2.wav": {
+  "mark": "keep"
+ },
+ "whale/com-humpback-whale-wheezeblow-ogg-1.wav": {
+  "mark": "drop"
+ },
+ "whale/com-humpback-whale-wheezeblow-ogg-0.wav": {
+  "mark": "drop"
+ },
+ "whale/com-blue-whale-ne-pacific-ogg-0.wav": {
+  "mark": "keep"
+ },
+ "whale/com-atlantic-minke-whale-call-ogg-0.wav": {
+  "mark": "keep"
+ },
+ "whale/com-sperm-whale-rapid-clicks-ogg-2.wav": {
+  "mark": "drop"
+ },
+ "whale/com-sperm-whale-rapid-clicks-ogg-1.wav": {
+  "mark": "drop"
+ },
+ "whale/com-sperm-whale-rapid-clicks-ogg-0.wav": {
+  "mark": "drop"
+ },
+ "whale/com-blue-whale-ne-pacific-ogg-1.wav": {
+  "mark": "drop"
+ },
+ "whale/com-blue-whale-ne-pacific-ogg-2.wav": {
+  "mark": "drop"
+ },
+ "whale/com-blue-whale-atlantic1-ogg-1.wav": {
+  "mark": "drop"
+ },
+ "whale/com-blue-whale-atlantic1-ogg-0.wav": {
+  "mark": "drop"
+ },
+ "whale/com-humpbackwhale2-ogg-2.wav": {
+  "mark": "drop"
+ },
+ "whale/com-humpbackwhale2-ogg-1.wav": {
+  "mark": "drop"
+ },
+ "whale/com-humpbackwhale2-ogg-0.wav": {
+  "mark": "drop"
+ },
+ "whale/com-akhumphi1x-ogg-2.wav": {
+  "mark": "drop"
+ },
+ "whale/com-akhumphi1x-ogg-1.wav": {
+  "mark": "drop"
+ },
+ "whale/com-akhumphi1x-ogg-0.wav": {
+  "mark": "drop"
+ },
+ "whale/com-whales-and-dolphins-whale-nature-sounds-songs-nueva-esparta-ogg-0.wav": {
+  "mark": "drop"
+ },
+ "whale/com-whales-and-dolphins-whale-nature-sounds-songs-nueva-esparta-ogg-1.wav": {
+  "mark": "keep"
+ },
+ "whale/com-whales-and-dolphins-whale-nature-sounds-songs-nueva-esparta-ogg-2.wav": {
+  "mark": "drop"
+ },
+ "whale/com-finwhaleatlantic-10x-ogg-2.wav": {
+  "mark": "drop"
+ },
+ "whale/com-finwhaleatlantic-10x-ogg-1.wav": {
+  "mark": "drop"
+ },
+ "whale/com-finwhaleatlantic-10x-ogg-0.wav": {
+  "mark": "drop"
+ },
+ "frog/big-0819-1.wav": {
+  "mark": "keep"
+ },
+ "frog/big-0819-0.wav": {
+  "mark": "keep"
+ },
+ "frog/big-0819-2.wav": {
+  "mark": "keep"
+ },
+ "frog/big-0819-3.wav": {
+  "mark": "drop"
+ },
+ "frog/big-0819-4.wav": {
+  "mark": "drop"
+ }
+}

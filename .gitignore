@@ -1,0 +1,6 @@
+# the downloaded originals and the cut candidates: rebuilt from sources/ and tools/
+raw/
+cand/
+# built from samples/ by tools/build_bank.py; published with a release, not committed
+bank.bin
+__pycache__/
