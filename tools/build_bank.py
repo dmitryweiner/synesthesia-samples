@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""picks.json + cand/ -> samples/<name>/<nn>.flac, manifest.json, provenance.md, bank.bin.
+"""picks.json + cand/ -> samples/<name>/<nn>.flac, manifest.json, provenance.md, index.html, bank.bin.
 
 Each kept candidate becomes one variant of a sound name (the names the core's
 `seqSounds` catalogue lists; `owl:1` is the second owl). Its sample rate is
@@ -19,6 +19,8 @@ from pathlib import Path
 import numpy as np
 import soundfile as sf
 from scipy.signal import resample_poly
+
+import gallery
 
 ROOT = Path(__file__).resolve().parent.parent
 CAND, SAMPLES = ROOT / "cand", ROOT / "samples"
@@ -105,6 +107,7 @@ def main():
     bank = b"SYNB" + struct.pack("<II", VERSION, len(mj)) + mj + b"".join(blobs)
     (ROOT / "bank.bin").write_bytes(bank)
     write_provenance(manifest)
+    gallery.write(manifest)
     n = sum(len(v) for v in manifest["sounds"].values())
     secs = sum(e["frames"] / e["sr"] for v in manifest["sounds"].values() for e in v)
     by_sr = {}
